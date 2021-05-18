@@ -1,2 +1,2 @@
 # ProgettoPiuFigo
-gruppo Davide Saverio Mirco Francesco Leonardo
+Gruppo di Davide Saverio Mirco Francesco Leonardo
